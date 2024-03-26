@@ -72,7 +72,7 @@
     
       }
     
-      @media (max-width: 768px){
+      @media (max-width: 600px){
         body{
              background-color:rgb(241, 206, 131);
              padding-top: 70px;
